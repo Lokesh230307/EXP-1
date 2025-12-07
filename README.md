@@ -2,11 +2,6 @@
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
 
-NAME: LOKESH S
-
-REGISTER NO: 212224230143
-
-DATE:11.09.25
 
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
